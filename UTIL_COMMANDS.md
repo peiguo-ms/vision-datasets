@@ -7,3 +7,6 @@
 - `vision_list_supported_operations`: list the supported operations by certain data type.
 
 For each commoand, run `command -h` for more details.
+
+## Minimal working example:
+`vision_download {dataset name} --reg_json {dataset registration json} --blob_container "{blob container url where the dataset is stored}"`
