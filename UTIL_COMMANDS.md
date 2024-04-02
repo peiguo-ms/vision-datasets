@@ -9,4 +9,4 @@
 For each commoand, run `command -h` for more details.
 
 ## Minimal working example:
-`vision_download {dataset name} --reg_json {dataset registration json} --blob_container "{blob container url where the dataset is stored}"`
+- `vision_download {dataset name} --reg_json {dataset registration json} --blob_container "{blob container url where the dataset is stored}"`
